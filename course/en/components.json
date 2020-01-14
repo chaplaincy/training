@@ -516,7 +516,7 @@
         "_ariaLevel": 0,
         "body": "<p>Robert tells you about his succession of illnessnes, which have been getting more serious each time. He has been proud of providing for those he loves, but now says he is desperate. He says \"You're a person of faith. Pray for me to get better. I need all the help I can get!\".</p>",
         "_graphic": {
-          "src": "course/en/assets/c7d47411ef87d9e4d11fb1ec811ec67c46e34633.jpg",
+          "src": "course/en/assets/152ef3d670f98c1b6824ae7a66a5ede74843fbe0.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -969,7 +969,7 @@
         "_ariaLevel": 0,
         "body": "<p>You visit a lady who has been admitted to hospital for the third time this year. Her last stay was for over 4 weeks. She seems very despondent and concerned about various family members who don't visit her. She lives alone. She says \"I don't know what's going to become of me. I'm not getting any better. I feel ready to give up\".</p>",
         "_graphic": {
-          "src": "course/en/assets/e14137dc43b3b46e4cd77feb5be6ca5ce873181e.jpg",
+          "src": "course/en/assets/f79cac19c91ea3de8275a8fd42256dcd896c6d67.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1019,7 +1019,7 @@
         "_ariaLevel": 0,
         "body": "<p>You meet a patient who seems very anxious and depressed. After you have been speaking for a while he says he believes he is going to be damned becuase he has rejected God in the past. He asks how he can prevent this happening to him.</p>",
         "_graphic": {
-          "src": "course/en/assets/32260503379e1e001930aa3b5c45d63be13841c1.jpg",
+          "src": "course/en/assets/4315d292b0cd6e32eeaa1523cafb6cd2370786d7.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1069,7 +1069,7 @@
         "_ariaLevel": 0,
         "body": "<p>You meet a patient who seems ill at ease. After talking for a while he says his partner is concerned about his health and wants to get married \"for the sake of the children\". They have one child, each from separate relationships , and a 2 year old child from their shared relationship. He says he doesn't want to be married again because of his previous relationship. He asks if you agree.</p>",
         "_graphic": {
-          "src": "course/en/assets/b0ce30fcc95d91ba47ded8b79685ecc99f158467.jpg",
+          "src": "course/en/assets/d5933c9c45236cfaa714de5b9607c4e4e4230f11.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1119,11 +1119,11 @@
         "_ariaLevel": 0,
         "body": "<p>A very friendly patient is pleased to see you again. She asks how your family are and what you're going to de that weekend. You discover she comes from an area you know well and you have some aquaintances and interests in common.</p><p><em>Think how you might respond to her questions and what you might contribute to the conversation.</em></p>",
         "_graphic": {
-          "src": "course/en/assets/17f2a93ba83b4a17652f718684a78d4f2938c05c.jpeg",
+          "src": "course/en/assets/d520a152d0bd301d7f43733b068a5cd61109399e.jpeg",
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Jennifer"
       },
       {
         "title": "",
@@ -1134,7 +1134,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Jennifer - Thoughts"
       }
     ]
   },
@@ -1169,7 +1169,7 @@
         "_ariaLevel": 0,
         "body": "<p>Brenda is a lady who seems very interested in religion. She attends a local place of worship and has taken its teaching very seriously. Religious practices seem to be an important part of who she is and her conversation shows that she has thought deeply about such things. Before you go she asks you to pray to bless a statue of her guardian angel as he will be looking after her during her illness.</p>",
         "_graphic": {
-          "src": "course/en/assets/35daf4d60c898b56e5ca3a9c1d3c39c95a4d9175.jpg",
+          "src": "course/en/assets/b277e4b6485deb3cafcac1ce2f24cb41c8107568.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1413,7 +1413,7 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "",
+      "mp4": "course/en/assets/c77e7a296a69110cbd093a3afc09ea5d2a181681.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",

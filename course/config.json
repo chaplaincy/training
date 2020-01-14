@@ -14,15 +14,38 @@
   },
   "_accessibility": {
     "_isEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isTextProcessorEnabled": false
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5,
+      "_notify": 1
+    }
   },
   "screenSize": {
     "small": 519,
     "medium": 759,
     "large": 1024
   },
-  "__v": 0,
+  "__v": 1,
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
