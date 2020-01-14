@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Welcome to the Team",
+    "displayTitle": "Welcome to the Team",
+    "body": "<p>The chaplaincy team includes Christian, Hindu, Jewish, Muslim, Sikh and Non-reliligous chaplains. The wider team of volunteers also includes Baha'i, Buddhist and Jain representitves. Below you will find a number of short videos introducing you to some of the members of the chaplaincy team. Although you may rarely meet other chaplains as a volunteer, it is important to be aware that we are a diverse multi-faith team and that we are there to support patients of all faiths and worldviews.</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d6a19c2ccc801bec4d185",
+    "_parentId": "5e1d6a19c2ccc801bec4d184",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d6baec2ccc801bec4d18e",
+    "_parentId": "5e1d6baec2ccc801bec4d18d",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d7218c2ccc801bec4d1af",
+    "_parentId": "5e1d7218c2ccc801bec4d1ae",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d7287c2ccc801bec4d1b4",
+    "_parentId": "5e1d7287c2ccc801bec4d1b3",
+    "_type": "article"
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "<p>The following slideshow presents a number of patient stories. Please read the information that is given, and think about how you would work with these patients. Would you find it difficult or easy? Would they raise any issues for you?</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d72a1c2ccc801bec4d1b7",
+    "_parentId": "5e1d72a1c2ccc801bec4d1b6",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d75d6c2ccc801bec4d1ca",
+    "_parentId": "5e1d7327c2ccc801bec4d1be",
+    "_type": "article"
+  }
+]
