@@ -875,10 +875,6 @@ this["Handlebars"]["templates"]["accordion"] = Handlebars.template({"1":function
     + "\n  </div>\n</div>\n";
 },"usePartial":true,"useData":true,"useDepths":true});
 
-this["Handlebars"]["templates"]["blank"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "<div class=\"component__inner blank__inner\"></div>\n";
-},"useData":true});
-
 this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return " has-attribution";
 },"3":function(container,depth0,helpers,partials,data) {

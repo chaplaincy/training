@@ -33,7 +33,7 @@
   },
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -44,7 +44,24 @@
     "_ariaLevel": 0,
     "_id": "5e1d6baec2ccc801bec4d18e",
     "_parentId": "5e1d6baec2ccc801bec4d18d",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
   },
   {
     "title": "Article title",
@@ -63,7 +80,7 @@
   },
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -74,7 +91,24 @@
     "_ariaLevel": 0,
     "_id": "5e1d7287c2ccc801bec4d1b4",
     "_parentId": "5e1d7287c2ccc801bec4d1b3",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
   },
   {
     "title": "Article title",
