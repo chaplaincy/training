@@ -378,7 +378,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1dc759c2ccc801bec4d22f",
+    "_id": "5e1ec09fc2ccc801bec4d24f",
     "_parentId": "5e1d6a19c2ccc801bec4d185",
     "_type": "block",
     "_onScreen": {
@@ -534,7 +534,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1d9176c2ccc801bec4d218",
+    "_id": "5e1dc759c2ccc801bec4d22f",
     "_parentId": "5e1d6a19c2ccc801bec4d185",
     "_type": "block",
     "_onScreen": {
@@ -679,11 +679,50 @@
     }
   },
   {
-    "title": "More on Boundaries",
+    "title": "Block title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d9176c2ccc801bec4d218",
+    "_parentId": "5e1d6a19c2ccc801bec4d185",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "More on Boundaries",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -722,7 +761,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -761,7 +800,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
