@@ -161,7 +161,7 @@
   },
   {
     "title": "Article title",
-    "displayTitle": "Article title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -170,8 +170,25 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1d75d6c2ccc801bec4d1ca",
+    "_id": "5e1ed6d1c2ccc801bec4d264",
     "_parentId": "5e1d7327c2ccc801bec4d1be",
-    "_type": "article"
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
   }
 ]
