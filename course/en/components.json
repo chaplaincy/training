@@ -613,69 +613,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Skills to practice",
-    "displayTitle": "Skills to practice",
-    "body": "",
-    "_id": "5e1d788ac2ccc801bec4d1ce",
-    "_parentId": "5e1d7862c2ccc801bec4d1cd",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "",
-        "_ariaLevel": 0,
-        "body": "<p>Listen attentively to what the person is saying</p>",
-        "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "boop"
-      },
-      {
-        "title": "",
-        "_ariaLevel": 0,
-        "body": "<p>Listen to what&nbsp;<em>else&nbsp;</em>the person is saying (or what they're not saying).</p>",
-        "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "boop"
-      },
-      {
-        "title": "",
-        "_ariaLevel": 0,
-        "body": "<p>Be sensitive to their mood and body language (is it communicating something different from their words?).</p>",
-        "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "boop"
-      }
-    ]
-  },
-  {
-    "_component": "narrative",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Things to consider",
-    "displayTitle": "Things to consider",
+    "title": "Things to Think About",
+    "displayTitle": "Things to Think About",
     "body": "",
     "_id": "5e1d7911c2ccc801bec4d1d3",
     "_parentId": "5e1d790bc2ccc801bec4d1d2",
@@ -745,6 +684,39 @@
           "attribution": ""
         },
         "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Listen attentively to what the person is saying.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Listen to what&nbsp;<em>else&nbsp;</em>the person is saying (or what they're not saying).</p>",
+        "_graphic": {
+          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Be sensitive to their mood and body language (is it communicating something different from their words?).</p>",
+        "_graphic": {
+          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
       }
     ]
   },
@@ -777,7 +749,29 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>We when provide pastoral care, it's important to respect our patients boundaries and our own.</p><p>Respecting boundaries means we give people space and privacy; respect their individuality and self-determination; and don't impose ourselves or our own ideas, beliefs or feelings upon them.</p><p>By doing this we keep our patients safe and keep ourselves safe too.</p>",
+        "body": "<p>When we provide pastoral care, it's important to respect our patients boundaries and our own.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/be13f950a0fdb3b8168273927c066e01a35d8244.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Respecting boundaries means we give people space and privacy; respect their individuality and self-determination; and don't impose ourselves or our own ideas, beliefs or feelings upon them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3f391df6d11863895f5630c9557436f8756839ed.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>By doing this we keep our patients safe and keep ourselves safe too.</p>",
         "_graphic": {
           "src": "course/en/assets/3f391df6d11863895f5630c9557436f8756839ed.jpg",
           "alt": "",
@@ -853,8 +847,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Component title",
-    "displayTitle": "",
+    "title": "Important Things to Consider",
+    "displayTitle": "Important Things to Consider",
     "body": "",
     "_id": "5e1d8206c2ccc801bec4d1e4",
     "_parentId": "5e1d81f1c2ccc801bec4d1e3",
