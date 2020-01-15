@@ -30,10 +30,6 @@
       "backgroundColor": "",
       "transparentChildren": true
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -77,10 +73,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": "",
       "transparentChildren": true
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -126,10 +118,6 @@
       "backgroundColor": "",
       "transparentChildren": true
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -173,10 +161,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": "",
       "transparentChildren": true
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -222,10 +206,6 @@
       "backgroundColor": "",
       "transparentChildren": true
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -269,10 +249,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": "",
       "transparentChildren": true
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {

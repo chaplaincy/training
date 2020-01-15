@@ -84,8 +84,7 @@
       "adapt-contrib-text",
       "adapt-contrib-spoor",
       "adapt-contrib-tutor",
-      "adapt-can-background",
-      "adapt-contrib-pageLevelProgress"
+      "adapt-can-background"
     ]
   }
 }

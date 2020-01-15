@@ -31,10 +31,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -74,10 +70,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -157,10 +149,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -222,10 +210,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -266,10 +250,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -303,10 +283,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -470,10 +446,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -538,10 +510,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -576,10 +544,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -590,7 +554,7 @@
         "_ariaLevel": 0,
         "body": "<ul><li>Sign the \"Chaplaincy Volunteers Record Sheet\"</li><li>Check notice boards for any important news or information.</li><li>Check personal box or folder for messages.</li></ul>",
         "_graphic": {
-          "src": "course/en/assets/7c45774264a7400a8d18858c965f9126ed58c1a4.jpg",
+          "src": "course/en/assets/392a1ced73bed4502ef9b0363602f480200a5ba5.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -601,7 +565,7 @@
         "_ariaLevel": 0,
         "body": "<ul><li>Introduce yourself to staff as a Chaplaincy Volunteer.</li><li>Ask if there is anyone in particular who may appreciate a visit from chaplaincy.</li><li>Sign the ward volvunteer's folder, usually located near the nurses station.</li><li>Introduce yourself by name to patients and say you are a chaplaincy volunteer.</li><li>Be senstivie to the patient and let them set the agenda. Remember patients may not want to talk. Consider offering to pull the curtains around for extra privacy.</li></ul>",
         "_graphic": {
-          "src": "course/en/assets/7c45774264a7400a8d18858c965f9126ed58c1a4.jpg",
+          "src": "course/en/assets/668dd8ef0495901153f17e4f81ac4080ea0b3d48.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -612,7 +576,7 @@
         "_ariaLevel": 0,
         "body": "<p>Sign out before you leave!</p>",
         "_graphic": {
-          "src": "course/en/assets/7c45774264a7400a8d18858c965f9126ed58c1a4.jpg",
+          "src": "course/en/assets/60bd482364e18e5f985b6cd2e1c3291b65d1b784.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -651,10 +615,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -717,10 +677,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -731,7 +687,7 @@
         "_ariaLevel": 0,
         "body": "<p>Relax and stay calm.</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/36dd501fefc422d5f1d3e9bf75457ccce28bd59d.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -742,7 +698,7 @@
         "_ariaLevel": 0,
         "body": "<p>Be aware of your own inner voice (what are you thinking and feeling?).</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/c545eeb42c28aca628f4f6656c0467bb145819bd.png",
           "alt": "",
           "attribution": ""
         },
@@ -753,7 +709,7 @@
         "_ariaLevel": 0,
         "body": "<p>Avoid speaking too soon, too often, or too much.</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/ff6b9674f1dcb5915b788843b2ad083b374a7d48.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -764,7 +720,7 @@
         "_ariaLevel": 0,
         "body": "<p>Avoid loaded remarks or judgements.</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/c09f8b2fd37f7af785e14615ecb8493fb9c85921.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -775,7 +731,7 @@
         "_ariaLevel": 0,
         "body": "<p>Remember what the person has said, summarise or checke you've understood (this shows you've been listening).</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/5d50a0950ea695bb7198fddfd27514376fbd8faa.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -786,7 +742,7 @@
         "_ariaLevel": 0,
         "body": "<p>Listen attentively to what the person is saying.</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/ee20e70c885f3f92e48bc746b74af6cc36f4a568.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -797,7 +753,7 @@
         "_ariaLevel": 0,
         "body": "<p>Listen to what&nbsp;<em>else&nbsp;</em>the person is saying (or what they're not saying).</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/f4709c7c64ebf2a64f8e7eaba6fb3a2e99f0e87c.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -808,7 +764,7 @@
         "_ariaLevel": 0,
         "body": "<p>Be sensitive to their mood and body language (is it communicating something different from their words?).</p>",
         "_graphic": {
-          "src": "course/en/assets/9bb6d6aa05439a6575f557d1dcc2db940c06c6b9.jpg",
+          "src": "course/en/assets/8f5706c2dc0b701782a809591a8e419397df3ccc.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -848,10 +804,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -862,7 +814,7 @@
         "_ariaLevel": 0,
         "body": "<p>When we provide pastoral care, it's important to respect our patients boundaries and our own.</p><p>&nbsp;</p>",
         "_graphic": {
-          "src": "course/en/assets/be13f950a0fdb3b8168273927c066e01a35d8244.jpg",
+          "src": "course/en/assets/8129af37244671adb3648b49c979cfb54c499e22.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -873,7 +825,7 @@
         "_ariaLevel": 0,
         "body": "<p>Respecting boundaries means we give people space and privacy; respect their individuality and self-determination; and don't impose ourselves or our own ideas, beliefs or feelings upon them.</p>",
         "_graphic": {
-          "src": "course/en/assets/3f391df6d11863895f5630c9557436f8756839ed.jpg",
+          "src": "course/en/assets/4fca27ea97640a460d32bd698cecf72da4b9b02c.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -884,7 +836,7 @@
         "_ariaLevel": 0,
         "body": "<p>By doing this we keep our patients safe and keep ourselves safe too.</p>",
         "_graphic": {
-          "src": "course/en/assets/3f391df6d11863895f5630c9557436f8756839ed.jpg",
+          "src": "course/en/assets/2edcd5504e493faa9fecc1b9e5a9369d8723c4b0.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -923,10 +875,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -996,10 +944,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1010,7 +954,7 @@
         "_ariaLevel": 0,
         "body": "<p>Maintain confidentiality</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/777d99d69eb3f190e678620ddffe2d4f1b1a95d3.png",
           "alt": "",
           "attribution": ""
         },
@@ -1019,9 +963,9 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Dont arrange to meet patients outside the hospital.</p>",
+        "body": "<p><strong>Dont</strong> arrange to meet patients outside the hospital.</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/6d719a6298b35811372d621dd21323e42da3af8c.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1032,7 +976,7 @@
         "_ariaLevel": 0,
         "body": "<p>Avoid giving advice or offering help.</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/b60b21672b5ac0b41d72815931271c5bae289ab2.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1043,7 +987,7 @@
         "_ariaLevel": 0,
         "body": "<p>Don't judge people's lifestyle choices.</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/c09f8b2fd37f7af785e14615ecb8493fb9c85921.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -1054,7 +998,7 @@
         "_ariaLevel": 0,
         "body": "<p>Allow people to be where they are, to ask questions and to express the fears they need to.</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/ddc252b33d705bd504185aac90e69cad115fe06e.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -1065,7 +1009,7 @@
         "_ariaLevel": 0,
         "body": "<p>Meet the patient's needs, not your own.</p>",
         "_graphic": {
-          "src": "course/en/assets/bea14108bb3f328f35a24eaaebc3634aa959daf2.jpg",
+          "src": "course/en/assets/51eb00e3ef2df7a9426661b2314e8233c1bbba50.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1104,10 +1048,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -1170,10 +1110,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1234,10 +1170,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -1300,10 +1232,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1364,10 +1292,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -1430,10 +1354,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1494,10 +1414,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1563,10 +1479,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -1600,10 +1512,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1669,10 +1577,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -1706,10 +1610,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1775,10 +1675,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -1812,10 +1708,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1881,10 +1773,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": ""
   },
   {
@@ -1907,10 +1795,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_canBackground": {
       "mobileSrc": "",
@@ -2003,10 +1887,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_canBackground": {
       "mobileSrc": "",
       "src": "",
@@ -2097,10 +1977,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_canBackground": {
       "mobileSrc": "",
@@ -2193,10 +2069,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_canBackground": {
       "mobileSrc": "",
       "src": "",
@@ -2288,10 +2160,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_canBackground": {
       "mobileSrc": "",
       "src": "",
@@ -2382,10 +2250,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_canBackground": {
       "mobileSrc": "",

@@ -40,12 +40,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -116,12 +110,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -194,12 +182,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -270,12 +252,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -348,12 +324,6 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -424,12 +394,6 @@
       "backgroundPosition": "center center",
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_vanilla": {
       "_backgroundImage": {

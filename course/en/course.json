@@ -116,15 +116,6 @@
       "_boxMenu": {
         "durationLabel": "Duration:"
       }
-    },
-    "_extensions": {
-      "_pageLevelProgress": {
-        "pageLevelProgress": "Page sections",
-        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
-        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "optionalContent": "Optional content"
-      }
     }
   },
   "_type": "course",
@@ -227,12 +218,6 @@
   },
   "_canBackground": {
     "_isActive": true
-  },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {
