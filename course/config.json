@@ -82,7 +82,10 @@
       "adapt-contrib-mcq",
       "adapt-contrib-media",
       "adapt-contrib-text",
-      "adapt-contrib-spoor"
+      "adapt-contrib-spoor",
+      "adapt-contrib-tutor",
+      "adapt-can-background",
+      "adapt-contrib-pageLevelProgress"
     ]
   }
 }

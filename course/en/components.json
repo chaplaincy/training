@@ -20,6 +20,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -48,6 +63,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -116,6 +146,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -166,6 +211,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -195,6 +255,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -217,6 +292,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_setCompletionOn": "allItems",
@@ -369,6 +459,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -422,6 +527,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -444,6 +564,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -506,6 +641,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -555,6 +705,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -672,6 +837,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -733,6 +913,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_setCompletionOn": "allItems",
     "_items": [
@@ -789,6 +984,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -884,6 +1094,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -933,6 +1158,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -984,6 +1224,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1033,6 +1288,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
@@ -1084,6 +1354,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1134,6 +1419,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
@@ -1183,6 +1483,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1237,6 +1552,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1259,6 +1589,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1313,6 +1658,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1335,6 +1695,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1389,6 +1764,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1411,6 +1801,21 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_media": {
@@ -1465,6 +1870,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -1476,11 +1896,11 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Question 2",
-    "displayTitle": "Question 2",
+    "title": "Question 1",
+    "displayTitle": "Question 1",
     "body": "",
-    "_id": "5e1ed6d1c2ccc801bec4d269",
-    "_parentId": "5e1ed6d1c2ccc801bec4d265",
+    "_id": "5e1ed6d1c2ccc801bec4d26c",
+    "_parentId": "5e1ed6d1c2ccc801bec4d268",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1488,17 +1908,32 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "Active listening is more about...",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "Chaplaincy is an opportunity to impose or spread our own beliefs or views?",
     "_items": [
       {
-        "text": "talking at the patient.",
+        "text": "True",
         "_shouldBeSelected": false,
-        "feedback": "<p>Chaplaincy is mostly about listening to patients.</p>"
+        "feedback": "<p>Chaplaincy support should be patient centered and not about imposing our own views on others.</p>"
       },
       {
-        "text": "Listening to patients.",
+        "text": "False",
         "_shouldBeSelected": true,
-        "feedback": "<p>Chaplaincy is mostly about listening to patients.</p>"
+        "feedback": ""
       }
     ],
     "_attempts": 1,
@@ -1507,12 +1942,12 @@
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
-    "_recordInteraction": true,
+    "_recordInteraction": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Chaplaincy support should be patient centered and not about imposing our own views on others.</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -1556,11 +1991,11 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Question 4",
-    "displayTitle": "Question 4",
+    "title": "Question 2",
+    "displayTitle": "Question 2",
     "body": "",
-    "_id": "5e1ed6d1c2ccc801bec4d26a",
-    "_parentId": "5e1ed6d1c2ccc801bec4d266",
+    "_id": "5e1ee626c2ccc801bec4d277",
+    "_parentId": "5e1ee626c2ccc801bec4d276",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1568,17 +2003,32 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "It is okay to meet up with patients after they have been discharged from hospital.",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "It is helpful to remember what patients are telling us.",
     "_items": [
       {
-        "text": "False",
+        "text": "True",
         "_shouldBeSelected": true,
-        "feedback": "<p>Be mindful of boundaries. It would not be appropriate to meet up with patients in a personal capacity, outside of the hospital.&nbsp;</p>"
+        "feedback": ""
       },
       {
-        "text": "True",
+        "text": "False",
         "_shouldBeSelected": false,
-        "feedback": "<p>Be mindful of boundaries. It would not be appropriate to meet up with patients in a personal capacity, outside of the hospital.&nbsp;</p>"
+        "feedback": "<p>We should always be listening to what the patient is saying and not saying, rather than thinking about other things (our shopping, our own lives etc).</p>"
       }
     ],
     "_attempts": 1,
@@ -1587,12 +2037,12 @@
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
-    "_recordInteraction": true,
+    "_recordInteraction": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>We should always be listening to what the patient is saying and not saying, rather than thinking about other things (our shopping, our own lives etc).</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -1639,8 +2089,8 @@
     "title": "Question 3",
     "displayTitle": "Question 3",
     "body": "",
-    "_id": "5e1ed6d1c2ccc801bec4d26b",
-    "_parentId": "5e1ed6d1c2ccc801bec4d267",
+    "_id": "5e1ee718c2ccc801bec4d27a",
+    "_parentId": "5e1ee718c2ccc801bec4d279",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1648,17 +2098,32 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "Chaplaincy is always about cheering patients up.",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "Active listening is about talking more than the patient?",
     "_items": [
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "feedback": "<p>Not all patients want to be \"cheered up\". Although it is true that giving patients a chance to talk about what they are going through often has a positive influence on them.</p>"
-      },
       {
         "text": "True",
         "_shouldBeSelected": false,
-        "feedback": "<p>Not all patients want to be \"cheered up\". Although it is true that giving patients a chance to talk about what they are going through often has a positive influence on them.</p>"
+        "feedback": "<p>Listening to the patient is the most important part of chaplaincy work. If we are speaking then we are not listening.</p>"
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
       }
     ],
     "_attempts": 1,
@@ -1667,12 +2132,12 @@
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
-    "_recordInteraction": true,
+    "_recordInteraction": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Listening to the patient is the most important part of chaplaincy work. If we are speaking then we are not listening.</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -1716,11 +2181,11 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Question 1",
-    "displayTitle": "Question 1",
+    "title": "Question 4",
+    "displayTitle": "Question 4",
     "body": "",
-    "_id": "5e1ed6d1c2ccc801bec4d26c",
-    "_parentId": "5e1ed6d1c2ccc801bec4d268",
+    "_id": "5e1ee7a3c2ccc801bec4d27d",
+    "_parentId": "5e1ee7a3c2ccc801bec4d27c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1728,17 +2193,32 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "Chaplaincy is an opportunity to impose or spread our own beliefs or views?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "Patients always need cheering up?",
     "_items": [
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "feedback": "<p>Chaplaincy support should be patient centered and not about imposing our own views on others.</p>"
-      },
       {
         "text": "True",
         "_shouldBeSelected": false,
-        "feedback": "<p>Chaplaincy support should be patient centered and not about imposing our own views on others.</p>"
+        "feedback": "<p>Care should be patient centered. Not all patients want to be cheered up. However it is also true that being listened to can have a positive influence on a patient's mood.</p>"
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
       }
     ],
     "_attempts": 1,
@@ -1747,12 +2227,12 @@
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
-    "_recordInteraction": true,
+    "_recordInteraction": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Care should be patient centered. Not all patients want to be cheered up. However it is also true that being listened to can have a positive influence on a patient's mood.</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -1786,5 +2266,138 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 5",
+    "displayTitle": "Question 5",
+    "body": "",
+    "_id": "5e1ee812c2ccc801bec4d280",
+    "_parentId": "5e1ee812c2ccc801bec4d27f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "It is okay to meet up with patients after they have been discharged?",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Be mindful of boundaries. You should avoid meeting up with patients outside of the hospital setting.</p>"
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Be mindful of boundaries. You should avoid meeting up with patients outside of the hospital setting.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "End of Training",
+    "displayTitle": "End of Training",
+    "body": "<p>You have now finished our online chaplaincy training. Please pass on any comments/suggestions or questions about materials you have to your mentor or other chaplaincy team members. You will have a local induction with your mentor who will introduce you to the site you are volunteering at.</p><p>From the whole chaplaincy team, we would like to welcome you and thank you for the service that you are going to undertake.</p>",
+    "_id": "5e1ee864c2ccc801bec4d282",
+    "_parentId": "5e1ee85cc2ccc801bec4d281",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": ""
   }
 ]
