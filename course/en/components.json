@@ -556,8 +556,19 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "",
-    "_items": [],
+    "instruction": "What is the better name?",
+    "_items": [
+      {
+        "text": "robert",
+        "_shouldBeSelected": false,
+        "feedback": "<p>bob</p>"
+      },
+      {
+        "text": "Jimmy",
+        "_shouldBeSelected": true,
+        "feedback": "<p>bob</p>"
+      }
+    ],
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
@@ -1535,5 +1546,22 @@
       "_percentInviewVertical": 50
     },
     "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5e1ed28fc2ccc801bec4d259",
+    "_parentId": "5e1ed286c2ccc801bec4d258",
+    "_type": "component",
+    "_layout": "full"
   }
 ]
