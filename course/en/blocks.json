@@ -200,7 +200,7 @@
     }
   },
   {
-    "title": "Block title",
+    "title": "Question 1",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -211,8 +211,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1dc75dc2ccc801bec4d233",
-    "_parentId": "5e1d6a19c2ccc801bec4d185",
+    "_id": "5e1ed6d1c2ccc801bec4d268",
+    "_parentId": "5e1ed6d1c2ccc801bec4d264",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -250,8 +250,8 @@
     }
   },
   {
-    "title": "Question 1",
-    "displayTitle": "",
+    "title": "How To Use This Training",
+    "displayTitle": "How To Use This Training",
     "body": "",
     "_classes": "",
     "_trackingId": 6,
@@ -261,8 +261,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1ed6d1c2ccc801bec4d268",
-    "_parentId": "5e1ed6d1c2ccc801bec4d264",
+    "_id": "5e26d02aa415318de8b0956d",
+    "_parentId": "5e26d02aa415318de8b0956c",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -511,7 +511,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1ec09fc2ccc801bec4d24f",
+    "_id": "5e1dc75dc2ccc801bec4d233",
     "_parentId": "5e1d6a19c2ccc801bec4d185",
     "_type": "block",
     "_onScreen": {
@@ -711,7 +711,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1dc759c2ccc801bec4d22f",
+    "_id": "5e1ec09fc2ccc801bec4d24f",
     "_parentId": "5e1d6a19c2ccc801bec4d185",
     "_type": "block",
     "_onScreen": {
@@ -1000,7 +1000,7 @@
     }
   },
   {
-    "title": "Question 4",
+    "title": "Block title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1011,8 +1011,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1ee7a3c2ccc801bec4d27c",
-    "_parentId": "5e1ed6d1c2ccc801bec4d264",
+    "_id": "5e1d9176c2ccc801bec4d218",
+    "_parentId": "5e1d6a19c2ccc801bec4d185",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1050,7 +1050,7 @@
     }
   },
   {
-    "title": "Block title",
+    "title": "Question 4",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1061,8 +1061,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5e1f2b7ac2ccc801bec4d2ab",
-    "_parentId": "5e1d6a19c2ccc801bec4d185",
+    "_id": "5e1ee7a3c2ccc801bec4d27c",
+    "_parentId": "5e1ed6d1c2ccc801bec4d264",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1200,61 +1200,11 @@
     }
   },
   {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 25,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_id": "5e1d9176c2ccc801bec4d218",
-    "_parentId": "5e1d6a19c2ccc801bec4d185",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_canBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": ""
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "Question 5",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1304,7 +1254,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1354,7 +1304,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

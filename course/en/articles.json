@@ -1,49 +1,5 @@
 [
   {
-    "title": "Welcome to the Team",
-    "displayTitle": "Welcome to the Team",
-    "body": "<p>The chaplaincy team includes Christian, Hindu, Jewish, Muslim, Sikh and Non-reliligous chaplains. The wider team of volunteers also includes Baha'i, Buddhist and Jain representitves. Below you will find a number of short videos introducing you to some of the members of the chaplaincy team. Although you may rarely meet other chaplains as a volunteer, it is important to be aware that we are a diverse multi-faith team and that we are there to support patients of all faiths and worldviews.</p>",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_id": "5e1d6a19c2ccc801bec4d185",
-    "_parentId": "5e1d6a19c2ccc801bec4d184",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_canBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "",
-      "transparentChildren": true
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "Article title",
     "displayTitle": "",
     "body": "",
@@ -232,6 +188,94 @@
     "_ariaLevel": 0,
     "_id": "5e1ed6d1c2ccc801bec4d264",
     "_parentId": "5e1d7327c2ccc801bec4d1be",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "",
+      "transparentChildren": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "How to Use This Training",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e26d02aa415318de8b0956c",
+    "_parentId": "5e1d6a19c2ccc801bec4d184",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "",
+      "transparentChildren": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Welcome to the Team",
+    "displayTitle": "Welcome to the Team",
+    "body": "<p>The chaplaincy team includes Christian, Hindu, Muslim, Sikh, and Non-religious chaplains. The wider team of volunteers also includes Baha'i, Buddhist, Jain, and&nbsp;Jewish representitves. Below you will find a number of short videos introducing you to some of the members of the chaplaincy team. Although you may rarely meet other chaplains as a volunteer, it is important to be aware that we are a diverse multi-faith team and that we are there to support patients of all faiths and worldviews.</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e1d6a19c2ccc801bec4d185",
+    "_parentId": "5e1d6a19c2ccc801bec4d184",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 28,
+  "_latestTrackingId": 27,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -39,7 +39,7 @@
     "_isEnabled": false,
     "_startIds": [],
     "_force": false,
-    "_isMenuDisabled": false
+    "_isMenuDisabled": true
   },
   "_globals": {
     "_accessibility": {

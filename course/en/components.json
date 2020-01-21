@@ -157,7 +157,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>The&nbsp;<a href=\"http://www.elament.org.uk/media/1205/spirituality_in_nursing_care-_rcn_pocket_guide.pdf\" target=\"_blank\">Royal College of Nursing</a>&nbsp;offers a helpful definition:</p><p>“Spiritual Care recognises&nbsp;and responds to the needs of the human spirit when faced with trauma, ill health or sadness.\"</p><p>This can include the need for meaning, for self-worth, to express oneself, for faith support, perhaps for rites or prayer or sacrament, or simply for a sensitive listener.</p><p>Spiritual care begins with encouraging human contact in compassionate relationship, and moves in whatever direction the person’s need requires.”</p>",
+        "body": "<p>The&nbsp;<a href=\"http://www.elament.org.uk/media/1205/spirituality_in_nursing_care-_rcn_pocket_guide.pdf\" target=\"_blank\">Royal College of Nursing</a>&nbsp;offers a helpful definition:</p><p>“Spiritual Care recognises&nbsp;and responds to the needs of the human spirit when faced with trauma, ill health or sadness.\"</p><p>This can include the need for meaning, for self-worth, to express oneself, for faith support, perhaps for rites or prayer or sacrament, or simply for a sensitive listener.</p><p>Spiritual care begins with encouraging human contact in compassionate relationship, and moves in whatever direction the person’s need requires.”</p><p><a href=\"http://www.elament.org.uk/media/1205/spirituality_in_nursing_care-_rcn_pocket_guide.pdf\">For more information click here.</a></p>",
         "_graphic": {
           "src": "course/en/assets/4004a3d185b06bef5e044ff4a5e2269aa960239e.jpg",
           "alt": "",
@@ -339,7 +339,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Patients may be worried about the future. This may be about what is going to happen once they are discharged, or perhaps their own prognoses. It can be very helpful for patients to talk about these things with another person, and to work through in their own minds, some of their concerns and anxieties.</p>",
+        "body": "<p>Patients may be worried about the future. This may be about what is going to happen once they are discharged, or perhaps their own prognoses, or even end-of-life concerns. It can be very helpful for patients to talk about these things with another person, and to work through in their own minds, some of their concerns and anxieties. Again, if you feel out-of-your-depth, or uncertain, please check in with your mentor or other members of the chaplaincy team.</p>",
         "strapline": "boop",
         "_graphic": {
           "src": "course/en/assets/b1c3d55400858ca0c38396b33df5a75ebc9271d1.jpg",
@@ -377,7 +377,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Patients frequently ask \"why me\", reflecting feelings of unfairness at what they are going through. Life often continues around them, but patients can feel as if their lives are over, and this can cause feelings of emptiness or upset, anger and frustration. Chaplains and volunteers can provide an avenue for patients to vent those frustrations.</p>",
+        "body": "<p>Patients frequently ask \"why me\", reflecting feelings of unfairness at what they are going through. Life often continues around them, but patients can feel as if their lives are over, or that they can't cope with being ill or being dependent on others. This can cause feelings of emptiness or upset, anger and frustration. Chaplains and volunteers can provide an avenue for patients to vent those frustrations.</p>",
         "strapline": "boop",
         "_graphic": {
           "src": "course/en/assets/e8e1d9f1348c2f3be7e4e03c78a36348cde2e42d.jpg",
@@ -396,7 +396,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Religious or theological questions, whilst not as common as you might expect, are something that patients may wish to engage in. You are not expected to be an expert, nor to answer questions about your own beliefs. Chaplaincy is there to provide a space for patients to work through their own understanding.</p>",
+        "body": "<p>Religious or theological questions, whilst not as common as you might expect, are something that patients may wish to engage in. You are not expected to be an expert, nor to answer questions about your own beliefs. Chaplaincy is there to provide a space for patients to work through their own understanding. However, you may share a person's faith, in which case you may be able to understand where the person is coming from, but do not assume this. Remember you can always refer on to a chplain if necessary.</p>",
         "strapline": "boop",
         "_graphic": {
           "src": "course/en/assets/6a98d09bda7656d2c86632d9baa83ab06fef501a.jpg",
@@ -1087,8 +1087,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Greg",
-    "displayTitle": "Greg",
+    "title": "Tobias",
+    "displayTitle": "Tobias",
     "body": "",
     "_id": "5e1d8450c2ccc801bec4d1f7",
     "_parentId": "5e1d8450c2ccc801bec4d1f6",
@@ -1362,7 +1362,7 @@
       {
         "title": "Do",
         "_ariaLevel": 0,
-        "body": "<ul><li>Always sign in and out.</li><li>Use hand-gel between patients.</li><li>Introduce yorself to staff and patients.</li><li>Be sensitive to the patient and let them set the agenda.</li><li>Consider referrals to chaplains for follow-up, but ask consent first.</li><li>Respect any cultural or religious boundaries.</li><li>Adhere to dress codee and be bare-below-the-elbow.</li><li>Wear badge at all times.</li><li>Stay in touch with Chaplaincy. Let us know of any issues.</li></ul>",
+        "body": "<ul><li>Always sign in and out.</li><li>Use hand-gel between patients.</li><li>Introduce yorself to staff and patients.</li><li>Be sensitive to the patient and let them set the agenda.</li><li>Consider referrals to chaplains for follow-up, but ask consent first.</li><li>Respect any cultural or religious boundaries.</li><li>Adhere to dress codee and be bare-below-the-elbow.</li><li>Wear badge at all times.</li><li>Do make referrals to chaplains for request for prayers/blessings/sacraments etc.</li><li>Do remember that people may prefer to see a priest/minister or other faith leader, rather than a lay person.</li><li>Stay in touch with the chaplains. Let us know of any issues.</li></ul>",
         "_graphic": {
           "src": "course/en/assets/b1618718776d905d7d649544bb641a6928561a51.jpg",
           "alt": "",
@@ -1461,104 +1461,6 @@
     "body": "<p>Some of our volunteers give a few words about their own chaplaincy work.</p>",
     "_id": "5e1dc72ac2ccc801bec4d22d",
     "_parentId": "5e1d9176c2ccc801bec4d218",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_canBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": ""
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5e1dc759c2ccc801bec4d230",
-    "_parentId": "5e1dc759c2ccc801bec4d22f",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_canBackground": {
-      "mobileSrc": "",
-      "src": "",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundAttachement": "fixed",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": ""
-    },
-    "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/mAIvRioVaMA",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": false,
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "<p>Reverend Sarah Wright talks about her work as the Mental Health Chaplain.</p>",
-    "_id": "5e1dc759c2ccc801bec4d231",
-    "_parentId": "5e1dc759c2ccc801bec4d22f",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1715,7 +1617,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/B7J_gYWgTG4",
+      "source": "https://youtu.be/aX1fEDgWBj8",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -1752,7 +1654,7 @@
     "_disableAccessibilityState": false,
     "title": "Component title",
     "displayTitle": "",
-    "body": "<p>Dr Louie Savva, the community chaplain, welcomes you to volunteering, and talks a little about what chaplaincy is.</p>",
+    "body": "<p>Members of the chaplaincy team introduce themselves and welcome you to the team.</p>",
     "_id": "5e1ec09fc2ccc801bec4d251",
     "_parentId": "5e1ec09fc2ccc801bec4d24f",
     "_type": "component",
@@ -2276,8 +2178,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5e1f2b7ac2ccc801bec4d2ac",
-    "_parentId": "5e1f2b7ac2ccc801bec4d2ab",
+    "_id": "5e26d052a415318de8b0956e",
+    "_parentId": "5e26d02aa415318de8b0956d",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2302,7 +2204,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/2x8L9m_SBwo",
+      "source": "https://youtu.be/cuk2jh2CSYw",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -2339,9 +2241,9 @@
     "_disableAccessibilityState": false,
     "title": "Component title",
     "displayTitle": "",
-    "body": "<p>Maharaj Lalit Dave, our Hindu chaplain, talking a little about the work that he does.</p>",
-    "_id": "5e1f2b7ac2ccc801bec4d2ad",
-    "_parentId": "5e1f2b7ac2ccc801bec4d2ab",
+    "body": "<p>Please work through the pages in the numbered order given. When you reach the end of a page move to the top and use the grey back button to return to the main index of pages. Be aware that there are small crosses on some of the feedback items which when pressed will return you to the page you are on.</p><p>Lastly, be aware that some of the audio items will need headphones or speakers. We are hoping that volunteers work through this training at home, and refresh themselves on the content during their probationary period.</p><p>The video to the left shows some of the elements used in the training and how to use them.&nbsp;</p>",
+    "_id": "5e26d059a415318de8b0956f",
+    "_parentId": "5e26d02aa415318de8b0956d",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
