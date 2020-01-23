@@ -1014,6 +1014,17 @@
           "attribution": ""
         },
         "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><strong>Don't&nbsp;</strong>assume you know what the patient believes. If in doubt, ask them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/966adff93bd97877d8d3782e4aab9b87fc5765a4.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "assume"
       }
     ]
   },
@@ -1059,7 +1070,7 @@
         "_ariaLevel": 0,
         "body": "<p>You visit a lady who has been admitted to hospital for the third time this year. Her last stay was for over 4 weeks. She seems very despondent and concerned about various family members who don't visit her. She lives alone. She says \"I don't know what's going to become of me. I'm not getting any better. I feel ready to give up\".</p>",
         "_graphic": {
-          "src": "course/en/assets/8893567d4311e0b9bad5f9b9c1ba96d5f0ba8ace.jpg",
+          "src": "course/en/assets/334be5e7aed6ad547c84034d4ccd69b24a057b44.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -1070,7 +1081,7 @@
         "_ariaLevel": 0,
         "body": "<p><strong>Our role is to listen and support.</strong></p><p>We can't solve people's situations. Sometimes the best we can do is to make them feel slightly better or better able to cope. People often apprecaite someone who has the time to listen attentively while showing empathy.</p><p>We need to discern when people will benefit from cheering up or looking at their situation from a fresh perspective, or simplely being heard while they express negative feelings.</p>",
         "_graphic": {
-          "src": "course/en/assets/b38408936a0577958078272168ac903846df0432.jpg",
+          "src": "course/en/assets/f57c87fe0c26312c66dbecfd121fd4ae3fe376c2.jpeg",
           "alt": "",
           "attribution": ""
         },
@@ -1209,8 +1220,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Jennifer",
-    "displayTitle": "Jennifer",
+    "title": "Aarti",
+    "displayTitle": "Aarti",
     "body": "",
     "_id": "5e1d845ac2ccc801bec4d201",
     "_parentId": "5e1d845ac2ccc801bec4d200",
@@ -1242,7 +1253,7 @@
         "_ariaLevel": 0,
         "body": "<p>A very friendly patient is pleased to see you again. She asks how your family are and what you're going to de that weekend. You discover she comes from an area you know well and you have some aquaintances and interests in common.</p><p><em>Think how you might respond to her questions and what you might contribute to the conversation.</em></p>",
         "_graphic": {
-          "src": "course/en/assets/334be5e7aed6ad547c84034d4ccd69b24a057b44.jpeg",
+          "src": "course/en/assets/6bf5ef2359596a9af8f0bb879acb42fbfaebe117.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1253,7 +1264,7 @@
         "_ariaLevel": 0,
         "body": "<p><strong>Our role is to listen and be attentive to the other person.</strong></p><p>If we say too much about ourselves or other people, we might miss something important the patients wants to say about their own situation.</p>",
         "_graphic": {
-          "src": "course/en/assets/f57c87fe0c26312c66dbecfd121fd4ae3fe376c2.jpeg",
+          "src": "course/en/assets/24ec6b0ab7c397a636c69955b18f30770beb0e1e.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -1421,7 +1432,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/mAIvRioVaMA",
+      "source": "https://youtu.be/2rAGMo2INME",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -1617,7 +1628,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/aX1fEDgWBj8",
+      "source": "https://youtu.be/KyYcbLMxKK4",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -1654,7 +1665,7 @@
     "_disableAccessibilityState": false,
     "title": "Component title",
     "displayTitle": "",
-    "body": "<p>Members of the chaplaincy team introduce themselves and welcome you to the team.</p>",
+    "body": "<p>Some members of the chaplaincy team introduce themselves and welcome you to the team.</p>",
     "_id": "5e1ec09fc2ccc801bec4d251",
     "_parentId": "5e1ec09fc2ccc801bec4d24f",
     "_type": "component",
