@@ -2274,5 +2274,182 @@
       "backgroundColor": ""
     },
     "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e297c15a415318de8b09581",
+    "_parentId": "5e297c0fa415318de8b09580",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Cleaning your hands is the simplest, cheaptest and most effective way of preventing germs being passed from one person to another.</p><p>Around one third of infections are preventable and our hospital wards all have hand sanitised available for staff and volunteers to help stop the spread of germs.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5667bb12014d989eefd2fd70ff1904d47e4b8aca.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Sanitise your hands when you leave or enter a ward.</p>",
+        "_graphic": {
+          "src": "course/en/assets/dcbe9b3611acdbf27cc7b1f1407bdf6626f1ff78.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Dress code. Bare below the elbows. Long sleeves rolled up, all arm and hand jewlerwy including wristewatches, stoned rings and bracelets, must be removed. One plain wedding bend and a small metal Kara are the only exceptions.&nbsp;</p><p>Tip: For security please leave all valuables at home.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ddbca2c314d18e9c5f176ce163af9c974f5649b8.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Source isolation:</p><p>Patient is isolated due to infection. Not permittted to enter rooms or bedises where this slide is displayed. If unsure ask a member of staff.</p>",
+        "_graphic": {
+          "src": "course/en/assets/da14128dde7bcdd884d6fcac91e257221f4d1bf2.png",
+          "alt": "",
+          "attribution": "boop"
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Norovirius is highly contagious and easily picked up by ill and vulnerable people.If you have a bout of diarhea or vommitting do not come into the hospital until you have been clear of symptoms for at least 48 hours.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2ab8d8808d134b9521b04abc7df2db065467e74c.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>If you see this sign anywhere, do not go in, and discuss with chaplaincy.</p>",
+        "_graphic": {
+          "src": "course/en/assets/729c85a858d0876f426bda05a59d0fa913e72b95.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5e2eaa9a9976c8d8228f3102",
+    "_parentId": "5e29729ca415318de8b0957a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>In your role as a volunteer you will be privy to all manner of personal information. This includes:</p><ul><li>a patient's name</li><li>age</li><li>religion</li><li>marrital status</li><li>the fact that they are in hospital</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/7e811f68599e6442f6ffd6dcb232a461f93a2b1d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>If you have access to CareView (UHL) you may also have access to their NHS numbers, and information associated with their previous chaplaincy contact.</p><p>Patients may also disclose information to you:</p><ul><li>where they live, family history, work history</li><li>religion, sexuality, medical history</li><li>financial status, income, state benefits.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/3625c0c0bbff002bbeaf680a53486ddd4426d9b2.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>It is important to treat all this information appropriately. For example&nbsp;</p><ul><li>Information is not shared with others.</li><li>All written/printed information is disposed of securely (secure shredding).</li><li>If using a computer do not leave it unlocked.</li></ul><p>If you are asked to share information with somebody else (e.g. you have been asked to contact a member of the patient's faith community, always check in with your mentor, or another chaplain.</p>",
+        "_graphic": {
+          "src": "course/en/assets/70ebb449661f7cffe7fb049b3061736c06b385e0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      }
+    ]
   }
 ]
