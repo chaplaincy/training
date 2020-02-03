@@ -76,7 +76,7 @@
     "_items": [
       {
         "title": "We respond",
-        "body": "<p>We respond to spiritual, pastoral and religious need. This supports the Trust's committment to provide holistic care.</p>",
+        "body": "<p>We respond to spiritual, pastoral and religious need. This supports the Trust's commitment to provide holistic care.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -96,7 +96,7 @@
       },
       {
         "title": "We help",
-        "body": "<p>We help to sustain the faith practicse of those for whom religious observance is a vital and integral part of their lives.</p>",
+        "body": "<p>We help to sustain the faith practices&nbsp;of those for whom religious observance is a vital and integral part of their lives.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -106,7 +106,7 @@
       },
       {
         "title": "We work together",
-        "body": "<p>We work together as people of differnet faiths and worldviews to provide these services to all.</p>",
+        "body": "<p>We work together as people of different faiths and worldviews to provide these services to all.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -563,7 +563,7 @@
       {
         "title": "When You Reach The Ward",
         "_ariaLevel": 0,
-        "body": "<ul><li>Introduce yourself to staff as a Chaplaincy Volunteer.</li><li>Ask if there is anyone in particular who may appreciate a visit from chaplaincy.</li><li>Sign the ward volvunteer's folder, usually located near the nurses station.</li><li>Introduce yourself by name to patients and say you are a chaplaincy volunteer.</li><li>Be senstivie to the patient and let them set the agenda. Remember patients may not want to talk. Consider offering to pull the curtains around for extra privacy.</li></ul>",
+        "body": "<ul><li>Introduce yourself to staff as a Chaplaincy Volunteer.</li><li>Ask if there is anyone in particular who may appreciate a visit from chaplaincy.</li><li>Sign the ward volunteer's folder, usually located near the nurses station.</li><li>Introduce yourself by name to patients and say you are a chaplaincy volunteer.</li><li>Be sensitive to the patient and let them set the agenda. Remember patients may not want to talk. Consider offering to pull the curtains around for extra privacy.</li></ul>",
         "_graphic": {
           "src": "course/en/assets/34d2e0fff1e67f95ad7e60633a08240ae1f28ced.jpg",
           "alt": "",
@@ -624,7 +624,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Robert tells you about his succession of illnessnes, which have been getting more serious each time. He has been proud of providing for those he loves, but now says he is desperate. He says \"You're a person of faith. Pray for me to get better. I need all the help I can get!\".</p>",
+        "body": "<p>Robert tells you about his succession of illnesses, which have been getting more serious each time. He has been proud of providing for those he loves, but now says he is desperate. He says \"You're a person of faith. Pray for me to get better. I need all the help I can get!\".</p>",
         "_graphic": {
           "src": "course/en/assets/4c1dd54168104a396d665e39717d99789013f0a7.jpg",
           "alt": "",
@@ -635,7 +635,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>Our role is to support people in the things that give them strenght and to encourage their independence.</strong></p><p>Before praying we will probably wish to geive people the chance toe express the feelings and anxiestis that lie behind their request. Sensitive questions and listening may give them a greater sense of their own ability to deal with their illsnes. If they don't want to talk about it, we should respect that too.</p><p>Some epople may feel they have reached the end of their own resources. By praying with oneone we can help them to express their own desire for healing and wholeness. We should avaoid implying a promise of healing or imposing our own beliefs about healing.</p>",
+        "body": "<p><strong>Our role is to support people in the things that give them strength and to encourage their independence.</strong></p><p>Before praying we will probably wish to give people the chance toe express the feelings and anxieties&nbsp;that lie behind their request. Sensitive questions and listening may give them a greater sense of their own ability to deal with their illness. If they don't want to talk about it, we should respect that too.</p><p>Some people may feel they have reached the end of their own resources. By praying with someone we can help them to express their own desire for healing and wholeness. We should avoid implying a promise of healing or imposing our own beliefs about healing.</p>",
         "_graphic": {
           "src": "course/en/assets/bf1cf87cabc001bc2d9f9500c3a5a8a9905731a0.jpg",
           "alt": "",
@@ -880,7 +880,7 @@
     "_setCompletionOn": "allItems",
     "_items": [
       {
-        "title": "Maintain approproate relationships",
+        "title": "Maintain appropriate relationships",
         "body": "<p>Maintain appropriate relationships (we aim for a proffesional relationship with patients - not like other relationships outside hospital such as friendships or belonging to the same group).</p>",
         "_graphic": {
           "alt": "",
@@ -1079,7 +1079,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>Our role is to listen and support.</strong></p><p>We can't solve people's situations. Sometimes the best we can do is to make them feel slightly better or better able to cope. People often apprecaite someone who has the time to listen attentively while showing empathy.</p><p>We need to discern when people will benefit from cheering up or looking at their situation from a fresh perspective, or simplely being heard while they express negative feelings.</p>",
+        "body": "<p><strong>Our role is to listen and support.</strong></p><p>We can't solve people's situations. Sometimes the best we can do is to make them feel slightly better or better able to cope. People often appreciate&nbsp;someone who has the time to listen attentively while showing empathy.</p><p>We need to discern when people will benefit from cheering up or looking at their situation from a fresh perspective, or simplly being heard while they express negative feelings.</p>",
         "_graphic": {
           "src": "course/en/assets/f57c87fe0c26312c66dbecfd121fd4ae3fe376c2.jpeg",
           "alt": "",
@@ -1098,8 +1098,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Tobias",
-    "displayTitle": "Tobias",
+    "title": "Tomas",
+    "displayTitle": "Tomas",
     "body": "",
     "_id": "5e1d8450c2ccc801bec4d1f7",
     "_parentId": "5e1d8450c2ccc801bec4d1f6",
@@ -1129,7 +1129,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>You meet a patient who seems very anxious and depressed. After you have been speaking for a while he says he believes he is going to be damned becuase he has rejected God in the past. He asks how he can prevent this happening to him.</p>",
+        "body": "<p>You meet a patient who seems very anxious and depressed. After you have been speaking for a while he says he believes he is going to be damned because he has rejected God in the past. He asks how he can prevent this happening to him.</p>",
         "_graphic": {
           "src": "course/en/assets/427b427f79b3ad61498c358bc216241769e22233.jpg",
           "alt": "",
@@ -1201,7 +1201,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>Our role is as facilitators,&nbsp;</strong>supporting people in reflecting on their own situation and coming to their own conclusiosn. We don't know all about their situation or what is really important to them.</p><p>If we give advice, we might prevent them reaching a good decision or gaining insight into their own feelings, ideas or values.</p>",
+        "body": "<p><strong>Our role is as facilitators,&nbsp;</strong>supporting people in reflecting on their own situation and coming to their own conclusions. We don't know all about their situation or what is really important to them.</p><p>If we give advice, we might prevent them reaching a good decision or gaining insight into their own feelings, ideas or values.</p>",
         "_graphic": {
           "src": "course/en/assets/1ec4f56678bd8ee01b0f5a4b489d2420da2797a0.jpg",
           "alt": "",
@@ -1251,7 +1251,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>A very friendly patient is pleased to see you again. She asks how your family are and what you're going to de that weekend. You discover she comes from an area you know well and you have some aquaintances and interests in common.</p><p><em>Think how you might respond to her questions and what you might contribute to the conversation.</em></p>",
+        "body": "<p>A very friendly patient is pleased to see you again. She asks how your family are and what you're going to do&nbsp;that weekend. You discover she comes from an area you know well and you have some acquaintances and interests in common.</p><p><em>Think how you might respond to her questions and what you might contribute to the conversation.</em></p>",
         "_graphic": {
           "src": "course/en/assets/6bf5ef2359596a9af8f0bb879acb42fbfaebe117.jpg",
           "alt": "",
@@ -1323,7 +1323,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>Our spiritual care role in hospital is to support people in the things that give them strength.</strong></p><p>Some faith traditions may include prayers to angels or blessing statues. Others may be uncomforatble with this. If we feel uncomfortable or that our integrity is breached, we could sensitively offer support from another team member or chaplain.</p>",
+        "body": "<p><strong>Our spiritual care role in hospital is to support people in the things that give them strength.</strong></p><p>Some faith traditions may include prayers to angels or blessing statues. Others may be uncomfortable with this. If we feel uncomfortable or that our integrity is breached, we could sensitively offer support from another team member or chaplain.</p>",
         "_graphic": {
           "src": "course/en/assets/46410dd5f3d11a9b6d402ce2bf6840edbe9c8839.jpg",
           "alt": "",
@@ -1373,7 +1373,7 @@
       {
         "title": "Do",
         "_ariaLevel": 0,
-        "body": "<ul><li>Always sign in and out.</li><li>Use hand-gel between patients.</li><li>Introduce yorself to staff and patients.</li><li>Be sensitive to the patient and let them set the agenda.</li><li>Consider referrals to chaplains for follow-up, but ask consent first.</li><li>Respect any cultural or religious boundaries.</li><li>Adhere to dress codee and be bare-below-the-elbow.</li><li>Wear badge at all times.</li><li>Do make referrals to chaplains for request for prayers/blessings/sacraments etc.</li><li>Do remember that people may prefer to see a priest/minister or other faith leader, rather than a lay person.</li><li>Stay in touch with the chaplains. Let us know of any issues.</li><li>If expected please keep a record of number of hours you volunteer for and number of patients you see (LPT).</li></ul>",
+        "body": "<ul><li>Always sign in and out.</li><li>Use hand-gel between patients.</li><li>Introduce yourself to staff and patients.</li><li>Be sensitive to the patient and let them set the agenda.</li><li>Consider referrals to chaplains for follow-up, but ask consent first.</li><li>Respect any cultural or religious boundaries.</li><li>Adhere to dress codee and be bare-below-the-elbow.</li><li>Wear badge at all times.</li><li>Do make referrals to chaplains for request for prayers/blessings/sacraments etc.</li><li>Do remember that people may prefer to see a priest/minister or other faith leader, rather than a lay person.</li><li>Stay in touch with the chaplains. Let us know of any issues.</li><li>If expected please keep a record of number of hours you volunteer for and number of patients you see (LPT).</li></ul>",
         "_graphic": {
           "src": "course/en/assets/b1618718776d905d7d649544bb641a6928561a51.jpg",
           "alt": "",
@@ -2315,7 +2315,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Cleaning your hands is the simplest, cheaptest and most effective way of preventing germs being passed from one person to another.</p><p>Around one third of infections are preventable and our hospital wards all have hand sanitised available for staff and volunteers to help stop the spread of germs.</p>",
+        "body": "<p>Cleaning your hands is the simplest, cheapest and most effective way of preventing germs being passed from one person to another.</p><p>Around one third of infections are preventable and our hospital wards all have hand sanitised available for staff and volunteers to help stop the spread of germs.</p>",
         "_graphic": {
           "src": "course/en/assets/5667bb12014d989eefd2fd70ff1904d47e4b8aca.jpg",
           "alt": "",
@@ -2337,7 +2337,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Dress code. Bare below the elbows. Long sleeves rolled up, all arm and hand jewlerwy including wristewatches, stoned rings and bracelets, must be removed. One plain wedding bend and a small metal Kara are the only exceptions.&nbsp;</p><p>Tip: For security please leave all valuables at home.</p>",
+        "body": "<p>Dress code. Bare below the elbows. Long sleeves rolled up, all arm and hand jewelry including wristwatches, stoned rings and bracelets, must be removed. One plain wedding band and a small metal Kara are the only exceptions.&nbsp;</p><p>Tip: For security please leave all valuables at home.</p>",
         "_graphic": {
           "src": "course/en/assets/ddbca2c314d18e9c5f176ce163af9c974f5649b8.png",
           "alt": "",
@@ -2348,7 +2348,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Source isolation:</p><p>Patient is isolated due to infection. Not permittted to enter rooms or bedises where this slide is displayed. If unsure ask a member of staff.</p>",
+        "body": "<p>Source isolation:</p><p>Patient is isolated due to infection. Not permitted to enter rooms or bedsides where this slide is displayed. If unsure ask a member of staff.</p>",
         "_graphic": {
           "src": "course/en/assets/da14128dde7bcdd884d6fcac91e257221f4d1bf2.png",
           "alt": "",
@@ -2359,7 +2359,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Norovirius is highly contagious and easily picked up by ill and vulnerable people.If you have a bout of diarhea or vommitting do not come into the hospital until you have been clear of symptoms for at least 48 hours.</p>",
+        "body": "<p>Norovirus is highly contagious and easily picked up by ill and vulnerable people.If you have a bout of diarrhea or vomitting do not come into the hospital until you have been clear of symptoms for at least 48 hours.</p>",
         "_graphic": {
           "src": "course/en/assets/2ab8d8808d134b9521b04abc7df2db065467e74c.jpg",
           "alt": "",
@@ -2420,7 +2420,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>In your role as a volunteer you will be privy to all manner of personal information. This includes:</p><ul><li>a patient's name</li><li>age</li><li>religion</li><li>marrital status</li><li>the fact that they are in hospital</li></ul>",
+        "body": "<p>In your role as a volunteer you will be privy to all manner of personal information. This includes:</p><ul><li>a patient's name</li><li>age</li><li>religion</li><li>marital status</li><li>the fact that they are in hospital</li></ul>",
         "_graphic": {
           "src": "course/en/assets/7e811f68599e6442f6ffd6dcb232a461f93a2b1d.jpg",
           "alt": "",
