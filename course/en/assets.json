@@ -79,11 +79,6 @@
     "description": "boundaries2",
     "tags": []
   },
-  "34bde5fb22e3ae352cd25b7d619cb82f7be7d2e8.jpg": {
-    "title": "2edcd5504e493faa9fecc1b9e5a9369d8723c4b0.jpg",
-    "description": "boundaries3",
-    "tags": []
-  },
   "3072f85e28049ff7261de6e479b7fb734b7b78cb.jpg": {
     "title": "777d99d69eb3f190e678620ddffe2d4f1b1a95d3.jpg",
     "description": "confidential",
@@ -277,6 +272,11 @@
   "70ebb449661f7cffe7fb049b3061736c06b385e0.jpg": {
     "title": "Stump-the-Identity-Thief.jpg",
     "description": "secure",
+    "tags": []
+  },
+  "aa990db21f65ac653c2830f55e50d1f58bfb4072.jpeg": {
+    "title": "5e200f77c2ccc801bec4d2cb.jpeg",
+    "description": "bound",
     "tags": []
   }
 }
