@@ -163,7 +163,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Spiritual Care Is..."
       },
       {
         "title": "",
@@ -174,7 +174,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Spiritual Care Is Not..."
       }
     ]
   },
@@ -302,7 +302,7 @@
         "title": "",
         "_ariaLevel": 0,
         "body": "<p>Being in hospital can be very isolating, even on the busiest of wards. Sometimes patients are brought in from far off counties, and can be completely cut off from their usual support. Loneliness can be a very painful experience, and being a caring presence, we can help support patients during, what can be, a difficult time.</p>",
-        "strapline": "boop",
+        "strapline": "I'm Feeling Alone",
         "_graphic": {
           "src": "course/en/assets/9661e7202849fff181217301d349a78b7c0b241b.jpg",
           "alt": "",
@@ -321,7 +321,7 @@
         "title": "",
         "_ariaLevel": 0,
         "body": "<p>Patients may ask for specific religious support such as a prayer. If you are asked for something that you cannot do, for example administer Holy Communion, you are expected to refer on to the chaplain, who will arrange for it to be done.</p>",
-        "strapline": "boop",
+        "strapline": "I Need A Prayer",
         "_graphic": {
           "src": "course/en/assets/8f1e825a2c7d3e6040c8159bdf3d347ae5dd02d8.jpg",
           "alt": "",
@@ -340,7 +340,7 @@
         "title": "",
         "_ariaLevel": 0,
         "body": "<p>Patients may be worried about the future. This may be about what is going to happen once they are discharged, or perhaps their own prognoses, or even end-of-life concerns. It can be very helpful for patients to talk about these things with another person, and to work through in their own minds, some of their concerns and anxieties. Again, if you feel out-of-your-depth, or uncertain, please check in with your mentor or other members of the chaplaincy team.</p>",
-        "strapline": "boop",
+        "strapline": "What Is Going To Happen?",
         "_graphic": {
           "src": "course/en/assets/b1c3d55400858ca0c38396b33df5a75ebc9271d1.jpg",
           "alt": "",
@@ -359,7 +359,7 @@
         "title": "",
         "_ariaLevel": 0,
         "body": "<p>Being in hospital can be a very stressful time. Being away from your own home, sleeping in a strange bed, in a noisy ward, can be very distressing to some patients. Patients can become frustrated with medical staff if they do not get the answers or treatment they feel they need. Chaplains can provide a way of venting these anxieties and frustrations, and provide an outlet to stressed patients.</p>",
-        "strapline": "boop",
+        "strapline": "I'm Stressed!",
         "_graphic": {
           "src": "course/en/assets/2d44665da261102df40abd664b2fe454910abdf6.jpg",
           "alt": "",
@@ -378,7 +378,7 @@
         "title": "",
         "_ariaLevel": 0,
         "body": "<p>Patients frequently ask \"why me\", reflecting feelings of unfairness at what they are going through. Life often continues around them, but patients can feel as if their lives are over, or that they can't cope with being ill or being dependent on others. This can cause feelings of emptiness or upset, anger and frustration. Chaplains and volunteers can provide an avenue for patients to vent those frustrations.</p>",
-        "strapline": "boop",
+        "strapline": "Why Me?",
         "_graphic": {
           "src": "course/en/assets/e8e1d9f1348c2f3be7e4e03c78a36348cde2e42d.jpg",
           "alt": "",
@@ -396,8 +396,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Religious or theological questions, whilst not as common as you might expect, are something that patients may wish to engage in. You are not expected to be an expert, nor to answer questions about your own beliefs. Chaplaincy is there to provide a space for patients to work through their own understanding. However, you may share a person's faith, in which case you may be able to understand where the person is coming from, but do not assume this. Remember you can always refer on to a chplain if necessary.</p>",
-        "strapline": "boop",
+        "body": "<p>Religious or theological questions, whilst not as common as you might expect, are something that patients may wish to engage in. You are not expected to be an expert, nor to answer questions about your own beliefs. Chaplaincy is there to provide a space for patients to work through their own understanding. However, you may share a person's faith, in which case you may be able to understand where the person is coming from, but do not assume this. Remember you can always refer on to a chaplain if necessary.</p>",
+        "strapline": "Where Is God?",
         "_graphic": {
           "src": "course/en/assets/6a98d09bda7656d2c86632d9baa83ab06fef501a.jpg",
           "alt": "",
@@ -558,7 +558,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "On Arrival"
       },
       {
         "title": "When You Reach The Ward",
@@ -569,7 +569,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Volunteering"
       },
       {
         "title": "Before You Leave",
@@ -580,7 +580,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Before You Leave"
       }
     ]
   },
@@ -593,8 +593,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Robert",
-    "displayTitle": "Robert",
+    "title": "Mark & Sue",
+    "displayTitle": "Mark & Sue",
     "body": "",
     "_id": "5e1d7303c2ccc801bec4d1bd",
     "_parentId": "5e1d72a1c2ccc801bec4d1b8",
@@ -624,24 +624,24 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Robert tells you about his succession of illnesses, which have been getting more serious each time. He has been proud of providing for those he loves, but now says he is desperate. He says \"You're a person of faith. Pray for me to get better. I need all the help I can get!\".</p>",
+        "body": "<p dir=\"ltr\">Mark is a man in his sixties. He is in bed and appears quite unwell. His wife, Sue, is with him, and on introducing yourself, she begins to talk to you. She often speaks for her husband, who is listening to the conversation, but not speaking himself.&nbsp;</p>",
         "_graphic": {
-          "src": "course/en/assets/4c1dd54168104a396d665e39717d99789013f0a7.jpg",
+          "src": "course/en/assets/3487a6ef6713827f3212c59b80a489c2a84a60e2.jpg",
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Mark & Sue"
       },
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>Our role is to support people in the things that give them strength and to encourage their independence.</strong></p><p>Before praying we will probably wish to give people the chance to&nbsp;express the feelings and anxieties&nbsp;that lie behind their request. Sensitive questions and listening may give them a greater sense of their own ability to deal with their illness. If they don't want to talk about it, we should respect that too.</p><p>Some people may feel they have reached the end of their own resources. By praying with someone we can help them to express their own desire for healing and wholeness. We should avoid implying a promise of healing or imposing our own beliefs about healing.</p>",
+        "body": "<p dir=\"ltr\">It is sometimes difficult to support patients and their families together. If appropriate, check in and see if anybody needs some private time to talk about things, away from the others. Be mindful too that just because one person verbalises for another, that doesn’t mean that is how the other person truly feels.</p>",
         "_graphic": {
-          "src": "course/en/assets/bf1cf87cabc001bc2d9f9500c3a5a8a9905731a0.jpg",
+          "src": "course/en/assets/765a5adbd4af5bcd2f23e81ab8db2a13a9a7e8c9.jpg",
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Mark & Sue"
       }
     ]
   },
@@ -691,7 +691,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Relax"
       },
       {
         "title": "",
@@ -702,7 +702,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Thinking & Feeling"
       },
       {
         "title": "",
@@ -713,7 +713,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Avoid speaking"
       },
       {
         "title": "",
@@ -724,7 +724,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Avoid judgements"
       },
       {
         "title": "",
@@ -735,7 +735,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Remember"
       },
       {
         "title": "",
@@ -746,7 +746,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Listen"
       },
       {
         "title": "",
@@ -757,7 +757,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Listen to the unspoken"
       },
       {
         "title": "",
@@ -768,7 +768,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Be sensitive"
       }
     ]
   },
@@ -818,7 +818,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Respect boundaries"
       },
       {
         "title": "",
@@ -829,7 +829,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Differences"
       },
       {
         "title": "",
@@ -840,7 +840,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Safe"
       }
     ]
   },
@@ -922,7 +922,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Important Things to Consider",
-    "displayTitle": "",
+    "displayTitle": "Important Things to Consider",
     "body": "",
     "_id": "5e1d8206c2ccc801bec4d1e4",
     "_parentId": "5e1d81f1c2ccc801bec4d1e3",
@@ -952,13 +952,13 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Maintain confidentiality</p>",
+        "body": "<p>Maintain confidentiality.</p>",
         "_graphic": {
           "src": "course/en/assets/3072f85e28049ff7261de6e479b7fb734b7b78cb.jpg",
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Confidentiality"
       },
       {
         "title": "",
@@ -969,7 +969,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Don't socialise"
       },
       {
         "title": "",
@@ -980,7 +980,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "No advice"
       },
       {
         "title": "",
@@ -991,7 +991,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Don't judge"
       },
       {
         "title": "",
@@ -1002,7 +1002,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Allow people their feelings"
       },
       {
         "title": "",
@@ -1013,7 +1013,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Meet needs"
       },
       {
         "title": "",
@@ -1024,7 +1024,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "assume"
+        "strapline": "Don't assume"
       }
     ]
   },
@@ -1379,7 +1379,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boops"
+        "strapline": "Do"
       },
       {
         "title": "Don't",
@@ -1390,7 +1390,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boops"
+        "strapline": "Don't"
       }
     ]
   },
@@ -2252,7 +2252,7 @@
     "_disableAccessibilityState": false,
     "title": "Component title",
     "displayTitle": "",
-    "body": "<p>Please work through the pages in the numbered order given. When you reach the end of a page move to the top and use the grey back button to return to the main index of pages. Be aware that there are small crosses on some of the feedback items which when pressed will return you to the page you are on.</p><p>Lastly, be aware that some of the audio items will need headphones or speakers. We are hoping that volunteers work through this training at home, and refresh themselves on the content during their probationary period.</p><p>The video to the left shows some of the elements used in the training and how to use them.&nbsp;</p>",
+    "body": "<p>We advise that you work through this training on a computer/laptop or larger screen device. If you are using it on a smartphone please be aware that some of the elements may not display in the way intended.&nbsp;</p><p>Please work through the pages in the numbered order given. When you reach the end of a page move to the top and use the grey back button to return to the main index of pages. Be aware that there are small crosses on some of the feedback items which when pressed will return you to the page you are on.</p><p>Lastly, be aware that some of the audio items will need headphones or speakers. We are hoping that volunteers work through this training at home, and refresh themselves on the content during their probationary period.</p><p>The video to the left shows some of the elements used in the training and how to use them.&nbsp;</p>",
     "_id": "5e26d059a415318de8b0956f",
     "_parentId": "5e26d02aa415318de8b0956d",
     "_type": "component",
@@ -2315,13 +2315,13 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>Cleaning your hands is the simplest, cheapest and most effective way of preventing germs being passed from one person to another.</p><p>Around one third of infections are preventable and our hospital wards all have hand sanitised available for staff and volunteers to help stop the spread of germs.</p>",
+        "body": "<p>Cleaning your hands is the simplest, cheapest and most effective way of preventing germs being passed from one person to another.</p><p>Around one third of infections are preventable and our hospital wards all have hand sanitisers available for staff and volunteers to help stop the spread of germs.</p>",
         "_graphic": {
           "src": "course/en/assets/5667bb12014d989eefd2fd70ff1904d47e4b8aca.jpg",
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Clean Hands"
       },
       {
         "title": "",
@@ -2332,7 +2332,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Sanitise"
       },
       {
         "title": "",
@@ -2343,7 +2343,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Dress Code"
       },
       {
         "title": "",
@@ -2352,9 +2352,9 @@
         "_graphic": {
           "src": "course/en/assets/da14128dde7bcdd884d6fcac91e257221f4d1bf2.png",
           "alt": "",
-          "attribution": "boop"
+          "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Infection Prevention"
       },
       {
         "title": "",
@@ -2365,7 +2365,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Norovirus"
       },
       {
         "title": "",
@@ -2376,7 +2376,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Watch Where You Go"
       }
     ]
   },
@@ -2426,7 +2426,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "Private Information"
       },
       {
         "title": "",
@@ -2437,7 +2437,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "boop"
+        "strapline": "More Private Information"
       },
       {
         "title": "",
@@ -2445,6 +2445,244 @@
         "body": "<p>It is important to treat all this information appropriately. For example&nbsp;</p><ul><li>Information is not shared with others.</li><li>All written/printed information is disposed of securely (secure shredding).</li><li>If using a computer do not leave it unlocked.</li></ul><p>If you are asked to share information with somebody else (e.g. you have been asked to contact a member of the patient's faith community, always check in with your mentor, or another chaplain.</p>",
         "_graphic": {
           "src": "course/en/assets/70ebb449661f7cffe7fb049b3061736c06b385e0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Keep Confidential"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e54ef9a778a952363387db3",
+    "_parentId": "5e54ef9a778a952363387db2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Depending on where you are volunteering, you will be visiting either a ward, or less commonly, a set of patients. Your mentor will inform you of this when you begin volunteering.&nbsp;</p><p dir=\"ltr\">Volunteers will generally visit all patients in a ward (where appropriate).&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/34d2e0fff1e67f95ad7e60633a08240ae1f28ced.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Visiting"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Some patients may not be available for visits (they may have visitors, be away from their beds, have doctors or other clinical staff working with them). Some patients may also not want to talk to chaplaincy volunteers.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/618206c5bf4485249fb2325aae22bc77cf0e5a72.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Not all patients..."
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Don’t be afraid to approach any patient though and to enquire whether they would like to talk.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b38408936a0577958078272168ac903846df0432.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Don't be afraid..."
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>A usual interaction may begin: “hello, my name is ____. I am a volunteer with the chaplaincy team. I’m just here to see how you are getting on…</p>",
+        "_graphic": {
+          "src": "course/en/assets/8edee9e28021e0fafb4955d45bf206973eed8f6d.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Introduction"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Patients will usually respond in a positive way, welcoming the visit, in which case the volunteer should make sure they have somewhere to sit. Do not sit on beds or other items like commodes. Plastic chairs are usually available on wards, and should be positioned in front of the patient so that you are both comfortable.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d605b6d7201dfeff1962bca4edaa5f56d84662dd.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Sitting"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">At first you may find it difficult cold-calling patients. This is normal for anyone approaching a stranger at their bedside. On the whole patients welcome a listening ear, and we often have a positive influence.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1ec4f56678bd8ee01b0f5a4b489d2420da2797a0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Cold-calling"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Patients are welcome to not engage with chaplaincy, and we should not take this too personally.</p>",
+        "_graphic": {
+          "src": "course/en/assets/4c1dd54168104a396d665e39717d99789013f0a7.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Not wanted..."
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Edna",
+    "displayTitle": "Edna",
+    "body": "",
+    "_id": "5e54fd2e778a952363387dca",
+    "_parentId": "5e54fd2e778a952363387dc9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Edna is an elderly lady. She informs you that she has cancer and that she does not expect to live much longer. She talks about the pain that has been causing her lots of distress. She mentions that she is hoping to get to a hospice soon, and she is adamant that she does not want to die on the ward.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8daa92204bf5f37359a6a5286fc552e4c484e9c9.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Edna"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Palliative patients can be emotionally upsetting to work with. They may make us think about our own lives, people we have lost, or they may raise in us sympathies for their predicament. It is perfectly acceptable for chaplaincy volunteers to be moved by the plight of patients. We are human beings after all. Bear in mind that to work in a patient centred way, our own experience should be in the background, with the patient’s lived experience at the forefront.</p>",
+        "_graphic": {
+          "src": "course/en/assets/75a105a4c9d94ab7fe8185053fdee5d12dac2189.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Edna"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Robert",
+    "displayTitle": "Robert",
+    "body": "",
+    "_id": "5e54fd45778a952363387dd4",
+    "_parentId": "5e54fd45778a952363387dd3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "mobileSrc": "",
+      "src": "",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundAttachement": "fixed",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Robert tells you about his succession of illnesses, which have been getting more serious each time. He has been proud of providing for those he loves, but now says he is desperate. He says \"You're a person of faith. Pray for me to get better. I need all the help I can get!\".</p>",
+        "_graphic": {
+          "src": "course/en/assets/4c1dd54168104a396d665e39717d99789013f0a7.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "boop"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><strong>Our role is to support people in the things that give them strength and to encourage their independence.</strong></p><p>Before praying we will probably wish to give people the chance to&nbsp;express the feelings and anxieties&nbsp;that lie behind their request. Sensitive questions and listening may give them a greater sense of their own ability to deal with their illness. If they don't want to talk about it, we should respect that too.</p><p>Some people may feel they have reached the end of their own resources. By praying with someone we can help them to express their own desire for healing and wholeness. We should avoid implying a promise of healing or imposing our own beliefs about healing.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bf1cf87cabc001bc2d9f9500c3a5a8a9905731a0.jpg",
           "alt": "",
           "attribution": ""
         },
