@@ -2084,7 +2084,7 @@
       "backgroundRepeat": "repeat",
       "backgroundColor": ""
     },
-    "instruction": "It is okay to meet up with patients after they have been discharged?",
+    "instruction": "It is okay to keep in contact with a patient you have met in hospital, after they have been discharged?",
     "_items": [
       {
         "text": "True",
